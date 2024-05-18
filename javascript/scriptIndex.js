@@ -13,33 +13,3 @@ function validacionPrestamo (prestamo){
     if (prestamo < 30000 && prestamo >= 20000 ) return "Hola sr. " + primerNombreApellido +". Usted solicito un prestamo de " + prestamo + " y tiene para devolver el dinero en 12 o 24 coutas"
     if (prestamo <= 10000 && prestamo >= 100) return "Hola sr. " + primerNombreApellido +". Usted solicito un prestamo de " + prestamo + " y tiene para devolver el dinero en 12"
 };
-
-// Conceptos que entran en la 1er Preentrega
-    // - Variables
-    
-    // - Constantes
-    
-    // - Booleanos
-    
-    // - Prompt
-    
-    // - Alert
-    
-    // - Console.log
-    
-    // - Control de flujo con if y if else.
-    
-    // - Operadores logicos
-    
-    // - Ciclos e iteraciones usando:
-    
-    // For
-    // While
-    // do While
-    
-    
-    // - Funciones
-    
-    // Funciones sin parámetros
-    // Funciones con parámetros
-    // Funciones anónimas    
